@@ -1,1 +1,4 @@
 # IoT_Based_Smart_Electricity_Energy_Meter
+Developed an innovative IoT-based Smart Electricity Energy Meter using the ESP32 microcontroller and the Blynk 2.0 platform. The project enables real-time tracking of voltage, current, power, and energy consumption (kWh) through advanced sensors while also calculating electricity costs to provide users with an estimated bill. Key features include remote accessibility via WiFi, reliable data storage using EEPROM to handle power outages, and a user-friendly dashboard for monitoring consumption, costs, and optimizing energy usage. This solution promotes energy efficiency and sustainability, addressing key challenges in traditional electricity monitoring systems.
+
+Technologies: ESP32, Blynk 2.0, ZMPT101B Voltage Sensor, SCT-013 Current Sensor, C/C++ Programming.
